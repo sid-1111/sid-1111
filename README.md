@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hey!+I'm+Siddhant+Sharma+%F0%9F%91%8B;Data+Analyst+|+Aspiring+Data+Scientist;Problem+Solver+through+Code+and+Data"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hey!+I'm+Siddhant+Sharma+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Scientist;Building+Data-Driven+Solutions"/>
 </h1>
 
 <p align="center">
